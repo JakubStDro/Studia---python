@@ -1,0 +1,2 @@
+Dokonaj serii zmian w swoim projekcie, wykonując commit po każdej istotnej zmianie. Przejrzyj
+historię commitów za pomocą różnych wariantów komendy git log.
