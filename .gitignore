@@ -1,0 +1,30 @@
+# Pliki Pythona
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Środowiska wirtualne
+venv/
+ENV/
+env/
+.venv/
+
+# Pliki logów
+*.log
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Edytorowe/IDE (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Zależności
+*.egg-info/
+dist/
+build/
+
+# Pliki tymczasowe
+*.tmp
+*.swp
